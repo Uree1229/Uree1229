@@ -2,7 +2,10 @@
   <img src="assets/profile-banner.png" alt="Uree1229 · Backend &amp; Data Engineering" width="100%">
 </p>
 
-<p align="center">Python으로 데이터 조회 API를 만들고, 페이지 경계와 네트워크 장애에서 데이터 정합성을 검증합니다.</p>
+<p align="center">
+  뉴스를 수집하고 이슈별로 탐색하는 서비스 SSAL.gg를 개발·운영합니다.<br>
+  팀 프로젝트로 응급환자 이송 지원 시스템과 의료 유사도 검색 프로토타입을 개발했고, Linux 커널에서는 CPU 작업 분산을 실험했습니다.
+</p>
 
 ### Tech Stack
 
