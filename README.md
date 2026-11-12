@@ -2,10 +2,7 @@
   <img src="assets/profile-banner.png" alt="Uree1229 · Backend &amp; Data Engineering" width="100%">
 </p>
 
-<p align="center">
-  뉴스를 수집하고 이슈별로 탐색하는 서비스 SSAL.gg를 개발·운영합니다.<br>
-  팀 프로젝트로 응급환자 이송 지원 시스템과 의료 유사도 검색 프로토타입을 개발했고, Linux 커널에서는 CPU 작업 분산을 실험했습니다.
-</p>
+<p align="center">뉴스 탐색 서비스 SSAL.gg를 개발·운영하고, 응급환자 이송 지원 시스템과 의료 유사도 검색, Linux 커널의 CPU 스케줄링을 다뤄 온 개발자입니다.</p>
 
 ### Tech Stack
 
