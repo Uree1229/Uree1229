@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Git-BD3F2A?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="25">
 </p>
 
+
+
 ## SSAL.gg · 뉴스 이슈 탐색 서비스
 
 여러 매체의 뉴스를 모아 이슈들을 스토리라인으로 묶고, 이슈들을 지도에 연결하고, 보도가 이어진 순서를 타임라인으로 보여줍니다. 
@@ -32,6 +34,16 @@ Live Trends에서는 여러 날 이어진 이슈를 찾을 수 있습니다.
 
 ## 다른 프로젝트
 
+### 응급환자 이송 지원 시스템
+
+응급환자 접수, 병원 문의, 목적지 확정, 이송 진행 상황 공유를 지원하는 팀 프로젝트입니다.  
+[저장소](https://github.com/Uree1229/emergency-care-system) · [응답 유실 테스트](https://github.com/Uree1229/emergency-care-system/blob/2eaf757/test_patient_workflow_dev1_http.py#L395-L407)
+
+### Linux CPU Load Balancing
+
+CPU 사용 제한을 풀었을 때 한 CPU에 몰렸던 작업을 여러 CPU로 더 빨리 분산하는 방법을 비교한 Linux 커널 실험입니다.  
+[커널 패치와 벤치마크](https://github.com/Uree1229/improve-loadbalancing)
+
 ### Blind-Match · 의료 유사도 검색
 
 나이와 혈압 같은 환자 특성을 입력하면 가상 환자 기록에서 비슷한 사례를 찾아주는 의료 검색 프로토타입입니다.  
@@ -45,13 +57,3 @@ Live Trends에서는 여러 날 이어진 이슈를 찾을 수 있습니다.
 - **입력 검증** · `NaN`, 나이 121세, `K=4`, 정규화 전 영벡터에 대해 HTTP `422` 응답을 확인했습니다.
 
 </details>
-
-### 응급환자 이송 지원 시스템
-
-응급환자 접수, 병원 문의, 목적지 확정, 이송 진행 상황 공유를 지원하는 팀 프로젝트입니다.  
-[저장소](https://github.com/Uree1229/emergency-care-system) · [응답 유실 테스트](https://github.com/Uree1229/emergency-care-system/blob/2eaf757/test_patient_workflow_dev1_http.py#L395-L407)
-
-### Linux CPU Load Balancing
-
-CPU 사용 제한을 풀었을 때 한 CPU에 몰렸던 작업을 여러 CPU로 더 빨리 분산하는 방법을 비교한 Linux 커널 실험입니다.  
-[커널 패치와 벤치마크](https://github.com/Uree1229/improve-loadbalancing)
