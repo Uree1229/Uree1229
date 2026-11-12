@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  뉴스 이슈 탐색 서비스 <a href="https://ssalgg.whitekw.com/"><b>SSAL.gg</b></a>를 만들고 운영합니다.<br>
-  동작은 테스트로, 성능은 측정으로 확인합니다.
+  이슈 탐색 서비스 <a href="https://ssalgg.whitekw.com/"><b>SSAL.gg</b></a>를 만들고 운영합니다.<br>
 </p>
 
 ## SSAL.gg - 이슈 탐색 서비스
