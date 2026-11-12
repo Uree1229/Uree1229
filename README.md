@@ -20,7 +20,9 @@
 
 ## SSAL.gg · 뉴스 이슈 탐색 서비스
 
-여러 매체의 뉴스를 모아 관련 이슈를 지도에 연결하고, 보도가 이어진 순서를 타임라인으로 보여줍니다. Live Trends에서는 여러 날 이어진 이슈를 찾을 수 있습니다.
+여러 매체의 뉴스를 모아 이슈들을 스토리라인으로 묶고, 이슈들을 지도에 연결하고, 보도가 이어진 순서를 타임라인으로 보여줍니다. 
+
+Live Trends에서는 여러 날 이어진 이슈를 찾을 수 있습니다.
 
 <p>
   <a href="https://ssalgg.whitekw.com/live-trends"><img src="https://img.shields.io/badge/Live%20Trends-007D73?style=flat" alt="Live Trends" height="26"></a>
