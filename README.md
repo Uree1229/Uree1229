@@ -4,7 +4,7 @@
 
 [이슈 지도 ↗](https://ssalgg.whitekw.com/issue-map) · [실시간 트렌드 ↗](https://ssalgg.whitekw.com/live-trends) · [뉴스 검색 ↗](https://ssalgg.whitekw.com/search) · [프로젝트 기록 ↗](https://ssalgg.whitekw.com/project-history)
 
-[![SSAL.gg 이슈 지도에서 기사와 이슈가 연결된 화면](assets/ssal-issue-map.jpg)](https://ssalgg.whitekw.com/issue-map)
+[![SSAL.gg 이슈 지도에서 기사와 이슈가 연결된 화면](assets/ssal-issue-map.png)](https://ssalgg.whitekw.com/issue-map)
 
 ### 개발한 기능
 
