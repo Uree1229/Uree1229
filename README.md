@@ -13,6 +13,7 @@
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=171717&amp;style=flat-square" alt="JavaScript" height="25">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&amp;logoColor=white&amp;style=flat-square" alt="C" height="25">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#" height="25">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=171717&amp;style=flat-square" alt="Linux" height="25">
   <img src="https://img.shields.io/badge/Git-BD3F2A?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="25">
 </p>
