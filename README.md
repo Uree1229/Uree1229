@@ -27,12 +27,6 @@
   <a href="https://ssalgg.whitekw.com/project-history"><img src="https://img.shields.io/badge/Project%20History-42557A?style=flat" alt="변경 기록" height="26"></a>
 </p>
 
-<p align="center">
-  <a href="https://ssalgg.whitekw.com/issue-map">
-    <img src="assets/ssal-issue-map.png" alt="SSAL.gg 다크 모드 이슈 연결 지도" width="560">
-  </a>
-</p>
-
 Live Trends에 **실제 관측일 기준 정렬·필터**를 추가했습니다. 60건을 50건과 10건으로 나눠 반환할 때 페이지 간 중복이 없는지 검증했습니다.
 
 ## 다른 프로젝트
