@@ -4,7 +4,7 @@
 
 <p align="center">
   이슈 탐색 서비스 <a href="https://ssalgg.whitekw.com/"><b>SSAL.gg</b></a>를 만들고 운영합니다.<br>
-  AI & SECURITY
+  Interest : AI & SECURITY & SW PM
 </p>
 
 ## SSAL.gg - 이슈 탐색 서비스
