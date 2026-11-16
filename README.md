@@ -22,7 +22,7 @@
 
 | 프로젝트 | 내용 |
 |---|---|
-| **[응급환자 이송 지원 시스템](https://github.com/Uree1229/emergency-care-system)**<br>팀 프로젝트 · `Python` `SQLite` `JavaScript` | 구급대의 환자 접수부터 병원 문의, 목적지 확정, 이송 진행 공유까지를 하나의 환자 기록으로 관리합니다.<br>서버 응답이 유실된 뒤 재시도해도 접수가 한 건만 남는지 [테스트](https://github.com/Uree1229/emergency-care-system/blob/2eaf757/test_patient_workflow_dev1_http.py#L395-L407)로 확인했습니다. |
+| **[Quick119](https://github.com/Uree1229/Quick119)**<br>팀 프로젝트 · `Python` `SQLite` `JavaScript` | 구급대의 환자 접수부터 병원 문의, 목적지 확정, 이송 진행 공유까지를 하나의 환자 기록으로 관리합니다.<br>서버 응답이 유실된 뒤 재시도해도 접수가 한 건만 남는지 [테스트](https://github.com/Uree1229/emergency-care-system/blob/2eaf757/test_patient_workflow_dev1_http.py#L395-L407)로 확인했습니다. |
 | **[Linux CPU Load Balancing](https://github.com/Uree1229/improve-loadbalancing)**<br>커널 실험 · `C` `Linux 5.4` | CPU 사용 제한이 풀린 뒤 한 CPU에 몰린 작업이 다시 분산되기까지의 지연을 줄이는 커널 패치입니다.<br>VM에서 원본과 수정 커널을 번갈아 부팅해 180회 측정했고, 복구 지연 중앙값이 80ms대에서 2ms 안팎으로 줄었습니다. [측정 결과](https://github.com/Uree1229/improve-loadbalancing/tree/main/experiments/fixed-host-kernel-ab-20261108) |
 | **[DiskPie](https://github.com/Uree1229/DiskPie)**<br>Android 앱 · `Kotlin` `Jetpack Compose` | 저장공간을 트리맵으로 보여 주는 앱입니다. 폴더와 앱별 용량을 분석하고 큰 파일을 찾아 지울 수 있습니다. [APK 받기](https://github.com/Uree1229/DiskPie/releases/latest) |
 
